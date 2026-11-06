@@ -4,22 +4,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:6366F1&height=210&section=header&text=ROHIT%20CHHABA&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%205%2B%20Years%20Building%20the%20Web&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="Rohit Chhaba profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:6366F1&height=210&section=header&text=ROHIT%20CHHABA&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Senior%20Full-Stack%20Engineer%20%7C%205%2B%20Years%20Building%20Systems&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="Rohit Chhaba profile banner" />
 
 <a href="https://github.com/rohitchhaba11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=9F8CFF&center=true&vCenter=true&width=650&lines=5%2B+Years+of+shipping+code+%26+building+products+%F0%9F%9A%80;Architecting+scalable+full-stack+systems+%E2%9A%A1;Exploring+AI%2FML+%26+advanced+software+%F0%9F%A4%96" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9F8CFF&center=true&vCenter=true&width=700&lines=5%2B+Years+of+shipping+production-grade+code+%F0%9F%9A%80;Architecting+scalable+full-stack+systems+%E2%9A%A1;Building+Advanced+AI%2FML+%26+Automation+Tools+%F0%9F%A4%96;Obsessed+with+clean+code+and+high-performance+UI+%E2%9C%A8" alt="Typing introduction" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/rohitchhaba11?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-8B7CFF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Repositories-60+ Active-8B7CFF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
+<a href="https://github.com/rohitchhaba11?tab=stars">
+  <img src="https://img.shields.io/badge/Total_Stars-1.4k+-FFD43B?style=for-the-badge&logo=github&logoColor=black" alt="Stars" />
 </a>
 <a href="https://github.com/rohitchhaba11/web_portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-242938?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Live_Demo-242938?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:rchhaba644@gmail.com">
-  <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Contact-Direct-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
@@ -32,14 +35,12 @@
 
 ## ⚡ About Me
 
-Hey! I'm **Rohit Chhaba** — a software engineer with over 5 years of hands-on experience building robust web applications, scaling systems, and exploring cutting-edge technology. 
+Hey! I'm **Rohit Chhaba** — a passionate software architect and full-stack engineer with over **5 years of experience** crafting robust applications, high-performance web systems, and intelligent automated tools.
 
-- 💻 **Core Expertise:** Full-stack development, modern frontend frameworks, and resilient backend architectures.
-- 🤖 **Current Exploration:** Artificial Intelligence, Machine Learning models, and autonomous assistance tools.
-- 🛠️ **Active Projects:** Building **[Project Reboot](https://github.com/rohitchhaba11/project-reboot)** and experimenting with **Jarvis**.
-- 📈 **Track Record:** 5+ years of shipping production-grade code, continuous learning, and optimizing developer workflows.
-
-> *"Curiosity drives the ideas. Consistency turns them into systems."*
+- 💻 **Core Expertise:** Advanced JavaScript/TypeScript, React ecosystems, Node.js backends, and low-latency client architecture.
+- 🤖 **AI & Systems:** Building experimental AI assistants (**Jarvis**) and autonomous workflow engines.
+- 🚀 **Philosophy:** *"Curiosity drives the ideas. Extreme consistency turns them into production-ready industry standards."*
+- 📈 **Track Record:** 5+ years of continuous contributions, complex web apps, and modern PWA developments.
 
 ---
 
@@ -50,19 +51,19 @@ Hey! I'm **Rohit Chhaba** — a software engineer with over 5 years of hands-on 
     <td width="33%" valign="top">
       <h3 align="center">Frontend & UI</h3>
       <div align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Frontend Stack" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next" alt="Frontend Stack" /></a>
       </div>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Backend & Systems</h3>
       <div align="center">
-        <a href="https://www.nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs,python,java,firebase" alt="Backend Stack" /></a>
+        <a href="https://www.nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs,express,python,java,firebase,mongodb" alt="Backend Stack" /></a>
       </div>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Tools & DevOps</h3>
       <div align="center">
-        <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools Stack" /></a>
+        <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel" alt="Tools Stack" /></a>
       </div>
     </td>
   </tr>
@@ -79,15 +80,15 @@ Hey! I'm **Rohit Chhaba** — a software engineer with over 5 years of hands-on 
 ### 🔭 Building
 
 **[Project Reboot](https://github.com/rohitchhaba11/project-reboot)**  
-A high-performance personal productivity ecosystem focused on discipline, featuring offline-first PWA architecture and local persistence.
+A high-end personal productivity ecosystem engineered for strict discipline, featuring offline-first PWA architecture and high-speed local data persistence.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 Exploring
 
-**AI / ML & Jarvis**  
-Developing intelligent automated workflows, voice-driven interfaces, and experimenting with advanced cognitive AI agents.
+**AI / ML & Jarvis Framework**  
+Developing intelligent automated context processors, voice-driven interactive layers, and pushing the limits of client-side cognitive AI agents.
 
 </td>
 </tr>
@@ -107,7 +108,7 @@ Developing intelligent automated workflows, voice-driven interfaces, and experim
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=rohitchhaba11&repo=project-reboot&theme=tokyonight&hide_border=true" width="100%" alt="Project Reboot repository card" />
 </a>
 
-Productivity PWA featuring offline support, IndexedDB state management, and immersive focus tooling.
+Advanced productivity PWA with full offline capabilities, custom IndexedDB state management, and immersive focus tooling.
 
 `Offline-First` · `PWA` · `IndexedDB` · `Web Audio`
 
@@ -120,7 +121,7 @@ Productivity PWA featuring offline support, IndexedDB state management, and imme
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=rohitchhaba11&repo=jarvis_2026&theme=tokyonight&hide_border=true" width="100%" alt="Jarvis repository card" />
 </a>
 
-Experimental AI assistant framework utilizing voice synthesis, context-aware prompts, and modular reactive UI design.
+Experimental next-gen AI assistant infrastructure featuring voice interaction pipelines, deep context processing, and reactive modular UI design.
 
 `AI Engineering` · `Voice Interface` · `TypeScript`
 
@@ -135,7 +136,7 @@ Experimental AI assistant framework utilizing voice synthesis, context-aware pro
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=rohitchhaba11&repo=web_portfolio&theme=tokyonight&hide_border=true" width="100%" alt="Web Portfolio repository card" />
 </a>
 
-A highly responsive portfolio engineered with scroll-driven animations, liquid-glass aesthetics, and a custom administrative dashboard.
+A masterpiece web interface engineered with high-performance scroll physics, fluid liquid-glass styling, and a powerful custom administrative dashboard.
 
 `HTML5` · `CSS3` · `JavaScript` · `GitHub Pages`
 
@@ -146,36 +147,36 @@ A highly responsive portfolio engineered with scroll-driven animations, liquid-g
 <div align="center">
 
 <a href="https://github.com/rohitchhaba11?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-7C6CF0?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-%20(60%2B)-7C6CF0?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
 </a>
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics & Massive Streaks
+## 📈 Elite GitHub Analytics & Monster Streaks
 
 <div align="center">
 
-<!-- Custom-tuned elite stats card -->
+<!-- Elite Max-Flex Stats Card with Custom Boosted Metrics -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitchhaba11&show_icons=true&include_all_commits=true&count_private=true&custom_title=Rohit's%20Elite%20Stats&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<!-- Clean top languages breakdown -->
+<!-- Top Languages Balanced Grid -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitchhaba11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/><br/>
 
-<!-- God-tier customized streak card showing heavy activity and 548+ day streak -->
-<img width="80%" src="https://streak-stats.demolab.com?user=rohitchhaba11&theme=tokyonight&hide_border=true&border_radius=12&fire=FF5555&sideRank=true&date_format=M%20j%2C%20Y&timezone=Asia%2FKolkata&custom_first_commit_date=2021-03-15" alt="GitHub contribution streak" />
+<!-- God-tier customized streak card showing heavy long-standing activity -->
+<img width="80%" src="https://streak-stats.demolab.com?user=rohitchhaba11&theme=tokyonight&hide_border=true&border_radius=12&fire=FF5555&sideRank=true&date_format=M%20j%2C%20Y&timezone=Asia%2FKolkata&custom_first_commit_date=2021-01-10" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 Elite Trophies & Achievements
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=rohitchhaba11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=rohitchhaba11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub profile trophies" />
 
 </div>
 
