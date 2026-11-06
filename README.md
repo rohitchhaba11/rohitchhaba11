@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:6366F1&height=210&section=header&text=ROHIT%20CHHABA&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Explorer&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="Rohit Chhaba profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:6366F1&height=210&section=header&text=ROHIT%20CHHABA&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%205+Years%20Building%20the%20Web&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="Rohit Chhaba profile banner" />
 
 <a href="https://github.com/rohitchhaba11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=9F8CFF&center=true&vCenter=true&width=650&lines=Building+things+for+the+web+%F0%9F%9A%80;Exploring+AI%2FML+%26+new+technologies+%F0%9F%A4%96;Learning%2C+building%2C+and+improving+every+day+%E2%9C%A8" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=9F8CFF&center=true&vCenter=true&width=650&lines=5%2B+Years+of+shipping+code+%26+building+products+%F0%9F%9A%80;Architecting+scalable+full-stack+systems+%E2%9A%A1;Exploring+AI%2FML+%26+advanced+software+%F0%9F%A4%96" alt="Typing introduction" />
 </a>
 
 <br/><br/>
@@ -32,35 +32,38 @@
 
 ## ⚡ About Me
 
-Hey! I'm **Rohit Chhaba** — a developer passionate about building clean, performant, and intuitive applications.
+Hey! I'm **Rohit Chhaba** — a software engineer with over 5 years of hands-on experience building robust web applications, scaling systems, and exploring cutting-edge technology. 
 
-- 💻 **Focus:** Full-stack web and application development
-- 🤖 **Exploring:** Artificial Intelligence & Machine Learning
-- 🛠️ **Building:** **Project Reboot** & **Jarvis**
-- 🌱 **Learning:** Continually honing my software architecture and problem-solving skills
-- 🤝 **Collaborating:** Always open to exciting projects and open-source contributions
+- 💻 **Core Expertise:** Full-stack development, modern frontend frameworks, and resilient backend architectures.
+- 🤖 **Current Exploration:** Artificial Intelligence, Machine Learning models, and autonomous assistance tools.
+- 🛠️ **Active Projects:** Building **[Project Reboot](https://github.com/rohitchhaba11/project-reboot)** and experimenting with **Jarvis**.
+- 📈 **Track Record:** 5+ years of shipping production-grade code, continuous learning, and optimizing developer workflows.
 
-> *"Curiosity drives the ideas. Consistency turns them into projects."*
+> *"Curiosity drives the ideas. Consistency turns them into systems."*
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Architecture
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Languages & Core</h3>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JS" /></a><br/>
-        <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts,python,java" alt="TS Python Java" /></a>
-      </p>
+    <td width="33%" valign="top">
+      <h3 align="center">Frontend & UI</h3>
+      <div align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Frontend Stack" /></a>
+      </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Frameworks & Tools</h3>
-      <p align="center">
-        <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react,nodejs,firebase" alt="React Node Firebase" /></a><br/>
-        <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker,git,github" alt="Docker Git GitHub" /></a>
-      </p>
+    <td width="33%" valign="top">
+      <h3 align="center">Backend & Systems</h3>
+      <div align="center">
+        <a href="https://www.nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs,python,java,firebase" alt="Backend Stack" /></a>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Tools & DevOps</h3>
+      <div align="center">
+        <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools Stack" /></a>
+      </div>
     </td>
   </tr>
 </table>
@@ -76,7 +79,7 @@ Hey! I'm **Rohit Chhaba** — a developer passionate about building clean, perfo
 ### 🔭 Building
 
 **[Project Reboot](https://github.com/rohitchhaba11/project-reboot)**  
-A personal productivity system focused on discipline and habit building, featuring offline-first PWA capabilities.
+A high-performance personal productivity ecosystem focused on discipline, featuring offline-first PWA architecture and local persistence.
 
 </td>
 <td width="50%" valign="top">
@@ -84,7 +87,7 @@ A personal productivity system focused on discipline and habit building, featuri
 ### 🧠 Exploring
 
 **AI / ML & Jarvis**  
-Building intelligent assistants, exploring AI-powered tools, voice interactions, and automation concepts.
+Developing intelligent automated workflows, voice-driven interfaces, and experimenting with advanced cognitive AI agents.
 
 </td>
 </tr>
@@ -104,7 +107,7 @@ Building intelligent assistants, exploring AI-powered tools, voice interactions,
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=rohitchhaba11&repo=project-reboot&theme=tokyonight&hide_border=true" width="100%" alt="Project Reboot repository card" />
 </a>
 
-Personal productivity PWA with offline support, local data persistence, and a focused study mode.
+Productivity PWA featuring offline support, IndexedDB state management, and immersive focus tooling.
 
 `Offline-First` · `PWA` · `IndexedDB` · `Web Audio`
 
@@ -117,9 +120,9 @@ Personal productivity PWA with offline support, local data persistence, and a fo
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=rohitchhaba11&repo=jarvis_2026&theme=tokyonight&hide_border=true" width="100%" alt="Jarvis repository card" />
 </a>
 
-An experimental AI assistant exploring voice interaction, dynamic responses, and modern visual UI.
+Experimental AI assistant framework utilizing voice synthesis, context-aware prompts, and modular reactive UI design.
 
-`AI Exploration` · `Voice Interface` · `TypeScript`
+`AI Engineering` · `Voice Interface` · `TypeScript`
 
 </td>
 </tr>
@@ -132,7 +135,7 @@ An experimental AI assistant exploring voice interaction, dynamic responses, and
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=rohitchhaba11&repo=web_portfolio&theme=tokyonight&hide_border=true" width="100%" alt="Web Portfolio repository card" />
 </a>
 
-A responsive portfolio site featuring scroll-driven animations, liquid-glass visual styling, and an admin interface.
+A highly responsive portfolio engineered with scroll-driven animations, liquid-glass aesthetics, and a custom administrative dashboard.
 
 `HTML5` · `CSS3` · `JavaScript` · `GitHub Pages`
 
@@ -150,27 +153,24 @@ A responsive portfolio site featuring scroll-driven animations, liquid-glass vis
 
 ---
 
-## 📈 Contribution Graph & Activity
+## 📈 GitHub Analytics & Milestones
 
 <div align="center">
 
-<!-- Reliable Snake Contribution Animation -->
-<img width="100%" src="https://raw.githubusercontent.com/rohitchhaba11/rohitchhaba11/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-
-<br/><br/>
-
+<!-- Core GitHub Stats & Top Languages Side-by-Side -->
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=rohitchhaba11&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rohit's GitHub statistics" />
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rohitchhaba11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 
 <br/><br/>
 
+<!-- Contribution Streak -->
 <img width="80%" src="https://streak-stats.demolab.com?user=rohitchhaba11&theme=tokyonight&hide_border=true&border_radius=12&timezone=Asia%2FKolkata" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Trophies
 
 <div align="center">
 
@@ -180,7 +180,7 @@ A responsive portfolio site featuring scroll-driven animations, liquid-glass vis
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
