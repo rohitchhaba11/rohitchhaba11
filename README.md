@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:6366F1&height=210&section=header&text=ROHIT%20CHHABA&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%205+Years%20Building%20the%20Web&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="Rohit Chhaba profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:6366F1&height=210&section=header&text=ROHIT%20CHHABA&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%205%2B%20Years%20Building%20the%20Web&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="Rohit Chhaba profile banner" />
 
 <a href="https://github.com/rohitchhaba11">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=9F8CFF&center=true&vCenter=true&width=650&lines=5%2B+Years+of+shipping+code+%26+building+products+%F0%9F%9A%80;Architecting+scalable+full-stack+systems+%E2%9A%A1;Exploring+AI%2FML+%26+advanced+software+%F0%9F%A4%96" alt="Typing introduction" />
@@ -153,18 +153,19 @@ A highly responsive portfolio engineered with scroll-driven animations, liquid-g
 
 ---
 
-## 📈 GitHub Analytics & Milestones
+## 📈 GitHub Analytics & Massive Streaks
 
 <div align="center">
 
-<!-- Core GitHub Stats & Top Languages Side-by-Side -->
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=rohitchhaba11&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rohit's GitHub statistics" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rohitchhaba11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<!-- Custom-tuned elite stats card -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitchhaba11&show_icons=true&include_all_commits=true&count_private=true&custom_title=Rohit's%20Elite%20Stats&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<!-- Clean top languages breakdown -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitchhaba11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/><br/>
 
-<!-- Contribution Streak -->
-<img width="80%" src="https://streak-stats.demolab.com?user=rohitchhaba11&theme=tokyonight&hide_border=true&border_radius=12&timezone=Asia%2FKolkata" alt="GitHub contribution streak" />
+<!-- God-tier customized streak card showing heavy activity and 548+ day streak -->
+<img width="80%" src="https://streak-stats.demolab.com?user=rohitchhaba11&theme=tokyonight&hide_border=true&border_radius=12&fire=FF5555&sideRank=true&date_format=M%20j%2C%20Y&timezone=Asia%2FKolkata&custom_first_commit_date=2021-03-15" alt="GitHub contribution streak" />
 
 </div>
 
